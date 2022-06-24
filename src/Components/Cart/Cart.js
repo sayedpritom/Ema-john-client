@@ -4,7 +4,7 @@ import './Cart.css';
 const Cart = (props) => {
     const cart = props.cart;
     // const totalPrice = cart.reduce(((accumulator, currentValue) => accumulator + parseInt(currentValue.price)),0)
-    console.log(props);
+    console.log(cart);
     let total = 0; 
     let shipping = 0;
     let quantity = 0;

@@ -40,7 +40,8 @@ label {
 }
 
 .form-submit {
-    margin-top: 41px;
+    margin-top: 35px;
+    margin-bottom: 25px;
     font-size: 21px;
     border: none;
     width: 415px;
