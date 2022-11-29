@@ -8,7 +8,7 @@
 5. Proceed Shipment and Inventory routes are protected so users need to login first to enter.
 6. Pagination is implemented for the product items. 
 
-## Server side code: https://github.com/sayedpritom999/Ema-john-server
+## Server side code: https://github.com/sayedpritom/Ema-john-server
 
 Implemented APIs in the server:
 1. API to get all products from database
